@@ -1,5 +1,4 @@
-# osx-security-awesome
-OSX related security tools
+OSX security related tools
 ====================
 
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - for forensic analysis
@@ -8,7 +7,7 @@ OSX related security tools
 4. [Santa](https://github.com/google/santa) - binary whitelisting/blacklisting system
 5. [Masochist](https://github.com/squiffy/Masochist) - framework for creating XNU based rootkits
 
-ios-security-awesome
+iOS security related tools
 ====================
 
 A collection of ios security related resources
