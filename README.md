@@ -15,7 +15,7 @@ iOS security related tools
 A collection of ios security related resources
 
 1. [IDB](https://github.com/dmayer/idb)
-2. [iRET](https://github.com/S3Jensen/iRET)
+2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
 3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 
