@@ -9,6 +9,7 @@ OSX security related tools
 6. [Class-dump](http://stevenygard.com/projects/class-dump/)
 7. [Mach inject](https://github.com/rentzsch/mach_inject) - Inter process code injection for Mac OS X
 8. [Hopper](http://www.hopperapp.com/) - Hopper disassembler (not free)
+9. [Mach-O diff](https://github.com/samdmarshall/machodiff)
 
 iOS security related tools
 ====================
