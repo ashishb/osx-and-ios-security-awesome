@@ -8,6 +8,7 @@ OSX security related tools
 5. [Masochist](https://github.com/squiffy/Masochist) - framework for creating XNU based rootkits
 6. [Class-dump](http://stevenygard.com/projects/class-dump/)
 7. [Mach inject](https://github.com/rentzsch/mach_inject) - Inter process code injection for Mac OS X
+8. [Task vaccine](https://github.com/rodionovd/task_vaccine) - similar to mach inject
 8. [Hopper](http://www.hopperapp.com/) - Hopper disassembler (not free)
 9. [Mach-O diff](https://github.com/samdmarshall/machodiff)
 
