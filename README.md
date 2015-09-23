@@ -11,6 +11,7 @@ OSX security related tools
 8. [Task vaccine](https://github.com/rodionovd/task_vaccine) - similar to mach inject
 8. [Hopper](http://www.hopperapp.com/) - Hopper disassembler (not free)
 9. [Mach-O diff](https://github.com/samdmarshall/machodiff)
+10. [Mac4n6](https://github.com/pstirparo/mac4n6) - A collection of OS X and iOS forensic artifacts
 
 iOS security related tools
 ====================
