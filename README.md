@@ -13,6 +13,7 @@ OSX security related tools
 9. [Mach-O diff](https://github.com/samdmarshall/machodiff) - mach-o diffing tool
 10. [Mac4n6](https://github.com/pstirparo/mac4n6) - A collection of OS X and iOS forensic artifacts
 11. [XGuardian scanner](https://github.com/openscanner/XGuardian) - Security Scanner for OSX
+12. [Crashwalk](https://github.com/bnagy/crashwalk)
 
 iOS security related tools
 ====================
