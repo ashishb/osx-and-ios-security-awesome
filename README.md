@@ -26,6 +26,7 @@ A collection of ios security related resources
 3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
+6. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both iOS and Android mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
 
 
 # Other Awesome Lists
