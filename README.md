@@ -15,6 +15,7 @@ OSX security related tools
 11. [XGuardian scanner](https://github.com/openscanner/XGuardian) - Security Scanner for OSX
 12. [Crashwalk](https://github.com/bnagy/crashwalk)
 13. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+14. [osquery](https://github.com/facebook/osquery) - cross-platform tool for data collection and forensic analysis 
 
 iOS security related tools
 ====================
