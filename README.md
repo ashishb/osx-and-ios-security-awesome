@@ -33,7 +33,8 @@ iOS Jailbreaks
 ====================
 
 Jailbreaking resources 
-[PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
+
+1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
