@@ -29,6 +29,13 @@ A collection of ios security related resources
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
 
 
+iOS Jailbreaks
+====================
+
+Jailbreaking resources 
+
+1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
