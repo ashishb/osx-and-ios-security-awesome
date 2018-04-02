@@ -16,7 +16,7 @@ OSX security related tools
 12. [Crashwalk](https://github.com/bnagy/crashwalk)
 13. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 14. [osquery](https://github.com/facebook/osquery) - cross-platform tool for data collection and forensic analysis
-15. [fortify](https://github.com/alichtman/fortify) - Easily configure Mac security settings from the terminal.
+15. [stronghold](https://github.com/alichtman/stronghold) - Easily configure MacOS security settings from the terminal.
 16. [BlockBlock](https://objective-see.com/products/blockblock.html) - BlockBlock continually monitors common persistence locations and displays an alert whenever a persistent component is added to the OS.
 17. [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
 18. [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
