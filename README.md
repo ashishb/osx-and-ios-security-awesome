@@ -40,6 +40,8 @@ A collection of ios security related resources
 3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
+6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool
+
 
 
 iOS Jailbreaks
