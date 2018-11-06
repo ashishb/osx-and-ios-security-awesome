@@ -3,6 +3,7 @@ OSX security related tools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - for forensic analysis
 3. [OSX auditor](https://github.com/jipegit/OSXAuditor) - for forensic analysis
+28. [mac_apt](https://github.com/ydkhatri/mac_apt) - macOS Artifact Parsing Tool - forensic analysis tool & framework
 2. [MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
 4. [Santa](https://github.com/google/santa) - binary whitelisting/blacklisting system
 5. [Masochist](https://github.com/squiffy/Masochist) - framework for creating XNU based rootkits
