@@ -42,6 +42,7 @@ A collection of ios security related resources
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
 6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool
+7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 
 
 
