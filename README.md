@@ -1,14 +1,14 @@
-# macOS and iOS Security Related Tools ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/osx-and-ios-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
+# macOS and iOS Security Related Tools
 
-## Table of Contents
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/osx-and-ios-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 
-- [macOS](#macOS)
-- [iOS Security](#ios-security-related-tools)
+## Contents
+
+- [macOS Security](#macos-security)
+- [iOS Security](#ios-security)
 - [iOS Jailbreaks](#ios-jailbreaks)
 
----
-
-## macOS
+## macOS Security
 
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - Forensic analysis.
 2. [OSX auditor](https://github.com/jipegit/OSXAuditor) - Forensic analysis.
@@ -40,7 +40,7 @@
 28. [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 29. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
 
-## iOS security related tools
+## iOS Security
 
 A collection of ios security related resources
 
