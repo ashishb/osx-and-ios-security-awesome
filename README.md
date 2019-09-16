@@ -49,6 +49,7 @@ A collection of ios security related resources
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.
 6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool.
 7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor.
+8. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
 
 ## iOS Jailbreaks
 
