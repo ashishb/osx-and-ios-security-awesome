@@ -21,7 +21,7 @@
 11. [Mach-O diff](https://github.com/samdmarshall/machodiff) - Mach-o diffing tool.
 12. [Mac4n6](https://github.com/pstirparo/mac4n6) - A collection of macOS and iOS forensic artifacts.
 13. [XGuardian scanner](https://github.com/openscanner/XGuardian) - Security Scanner for macOS.
-14. [Crashwalk](https://github.com/bnagy/crashwalk)
+14. [Crashwalk](https://github.com/bnagy/crashwalk) - Bucket and triage on-disk crashes
 15. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 16. [osquery](https://github.com/facebook/osquery) - Cross-platform tool for data collection and forensic analysis.
 17. [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
