@@ -53,6 +53,7 @@ A collection of ios security related resources
 6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool.
 7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor.
 8. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
+9. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
 
 ## iOS Jailbreaks
 
