@@ -6,9 +6,6 @@
 - [iOS Security](#ios-security)
 - [iOS Jailbreaks](#ios-jailbreaks)
 
-### Sponsor
-<a href="https://tracking.gitads.io/?repo=osx-and-ios-security-awesome"><img src="https://images.gitads.io/osx-and-ios-security-awesome" alt="GitAds" height=300 width=600/></a>
-
 ## macOS Security
 
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - Forensic analysis.
