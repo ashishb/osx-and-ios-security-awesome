@@ -1,4 +1,4 @@
-# macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a href="https://travis-ci.org/ashishb/osx-and-ios-security-awesome"><img src="https://img.shields.io/travis/ashishb/osx-and-ios-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
+# macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a href="https://github.com/ashishb/osx-and-ios-security-awesome/actions">![Test](https://github.com/ashishb/osx-and-ios-security-awesome/workflows/Test/badge.svg)</a>
 
 ## Contents
 
