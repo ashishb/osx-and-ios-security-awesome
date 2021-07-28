@@ -37,6 +37,7 @@
 27. [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
 28. [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 29. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
+30. [Pareto Security](http://fsmonitor.com/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
 ## iOS Security
 
