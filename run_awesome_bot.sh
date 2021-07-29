@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euxo pipefail
 
-# objective-see.com gets 403 on Travis CI. Probably due to some IP blacklist.
-DEAD_URLS='objective-see.com'
+# objective-see.com gets 403 on CI. Probably due to some IP blacklist.
+DEAD_URLS='objective-see.com','appcritique.boozallen.com'
 SRC_FILE=README.md
 awesome_bot \
   --allow-redirect \

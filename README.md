@@ -43,20 +43,21 @@
 
 A collection of ios security related resources
 
-1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool.
-2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit.
-3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning.
-4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices.
-5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.
-6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool.
-7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor.
+1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool
+2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
+3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
+4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
+7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 8. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
+6. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 
 ## iOS Jailbreaks
 
 1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
 
 ### Other Awesome Lists
+
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
