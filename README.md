@@ -1,13 +1,10 @@
-# macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a href="https://travis-ci.org/ashishb/osx-and-ios-security-awesome"><img src="https://img.shields.io/travis/ashishb/osx-and-ios-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
+# macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a href="https://github.com/ashishb/osx-and-ios-security-awesome/actions">![Test](https://github.com/ashishb/osx-and-ios-security-awesome/workflows/Test/badge.svg)</a>
 
 ## Contents
 
 - [macOS Security](#macos-security)
 - [iOS Security](#ios-security)
 - [iOS Jailbreaks](#ios-jailbreaks)
-
-### Sponsor
-<a href="https://tracking.gitads.io/?repo=osx-and-ios-security-awesome"><img src="https://images.gitads.io/osx-and-ios-security-awesome" alt="GitAds" height=300 width=600/></a>
 
 ## macOS Security
 
@@ -40,19 +37,21 @@
 27. [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
 28. [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 29. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
+30. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+31. [Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
 
 ## iOS Security
 
 A collection of ios security related resources
 
-1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool.
-2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit.
-3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning.
-4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices.
-5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.
-6. [AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool.
-7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor.
-8. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
+1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool
+2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
+3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
+4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
+6. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
+7. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
+8. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 9. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
 
 ## iOS Jailbreaks
@@ -60,6 +59,7 @@ A collection of ios security related resources
 1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
 
 ### Other Awesome Lists
+
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
