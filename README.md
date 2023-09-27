@@ -39,6 +39,7 @@
 29. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
 30. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 31. [Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
+32. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures.
 
 ## iOS Security
 
