@@ -51,10 +51,10 @@ A collection of ios security related resources
 3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
-7. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
-8. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
-6. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
-7. [AppSweep](https://appsweep.guardsquare.com/) - Free static and interactive security testing for Android and iOS apps
+6. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
+7. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
+8. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
+9. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 
 ## iOS Jailbreaks
 
