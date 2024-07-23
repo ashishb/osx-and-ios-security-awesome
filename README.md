@@ -39,6 +39,8 @@
 29. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
 30. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 31. [Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
+32. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures.
+33. [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
 ## iOS Security
 
@@ -51,8 +53,8 @@ A collection of ios security related resources
 5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
 6. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 7. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
-8. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
-9. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
+8. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
+9. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 
 ## iOS Jailbreaks
 
