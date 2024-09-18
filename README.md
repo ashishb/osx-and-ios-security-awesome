@@ -1,6 +1,8 @@
 # macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [![Test](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/test.yaml)
+[![Lint Markdown](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-markdown.yaml)
+[![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml)
 [![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml)
 
 ## Contents
