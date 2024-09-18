@@ -60,7 +60,16 @@ A collection of ios security related resources
 
 ## iOS Jailbreaks
 
-1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
+1. [CFW Guide](https://ios.cfw.guide) - A complete iOS jailbreaking guide, from stock to jailbroken.
+2. [Dopamine](https://ellekit.space/dopamine) - Rootless Jailbreak for iOS 15.0 - 16.6.1, A8 - A16, and M1 - M2.
+3. [Nathanlr](https://nathan4s.lol/nathanlr/nathanlr.tipa) - Rootless Semi-Jailbreak for 16.5.1-16.6.1.
+4. [Taurine](https://taurine.app) - Rootful Jailbreak for iOS 14.0 - 14.8.1.
+5. [Odyssey](https://theodyssey.dev) - Rootful Jailbreak for iOS 13.0 - 13.7.
+6. [Chimera](https://chimera.coolstar.org) - Rootful Jailbreak for iOS 12 — 12.5.7.
+7. [Electra](https://coolstar.org/electra) - Rootful Jailbreak for 11.0 – 11.4.1.
+8. [TotallyNotSpyware](https://totally.not.spyware.lol) - Rootful Jailbreak for iOS 10.0 - 10.3.3 64-bit devices.
+9. [kok3shi9all](https://kok3shidoll.web.app/kok3shi9.html) Rootful Jailbreak for 9.3.2 - 9.3.6, as well as 64-bit devices on 9.2 - 9.3.1.
+10. [PhoenixPwn](https://phoenixpwn.com) - Rootful Jailbreak for 9.3.5 32-bit devices.
 
 ### Other Awesome Lists
 
