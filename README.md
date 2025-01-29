@@ -40,7 +40,7 @@
 1. [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 1. [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS.
 1. [LockDown](https://objective-see.com/products/lockdown.html) - Open-source tool for El Capitan that audits and remediates security configuration settings.
-1. [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac.
+1. [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth.
 1. [OverSight](https://objective-see.com/products/oversight.html) - Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam.
 1. [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Ransomware Detection.
 1. [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
@@ -50,6 +50,7 @@
 1. [Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
 1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures.
 1. [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 
 ## iOS Security
 
