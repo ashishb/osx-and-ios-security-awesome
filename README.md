@@ -20,8 +20,7 @@
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - Forensic analysis.
 1. [OSX auditor](https://github.com/jipegit/OSXAuditor) - Forensic analysis.
 1. [mac_apt](https://github.com/ydkhatri/mac_apt) - macOS Artifact Parsing Tool for forensic analysis.
-1. [MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.
-1. [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system.
+1. [Santa](https://github.com/northpolesec/santa) - Binary whitelisting/blacklisting system.
 1. [Masochist](https://github.com/squiffy/Masochist) - Framework for creating XNU based rootkits.
 1. [Class-dump](http://stevenygard.com/projects/class-dump/) - Command-line utility to dump Objective-C runtime information.
 1. [Mach inject](https://github.com/rentzsch/mach_inject) - Inter process code injection for macOS.
