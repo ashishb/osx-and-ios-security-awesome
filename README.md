@@ -24,7 +24,7 @@
 1. [mac_apt](https://github.com/ydkhatri/mac_apt) - macOS Artifact Parsing Tool for forensic analysis.
 1. [MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.
 1. [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system.
-1. [Masochist](https://github.com/squiffy/Masochist) - Framework for creating XNU based rootkits.
+1. [Masochist](https://github.com/squiffy/Masochist) - Framework for creating XNU-based rootkits.
 1. [Class-dump](http://stevenygard.com/projects/class-dump/) - Command-line utility to dump Objective-C runtime information.
 1. [Mach inject](https://github.com/rentzsch/mach_inject) - Inter process code injection for macOS.
 1. [Task vaccine](https://github.com/rodionovd/task_vaccine) - Similar to mach inject.
@@ -37,7 +37,7 @@
 1. [osquery](https://github.com/facebook/osquery) - Cross-platform tool for data collection and forensic analysis.
 1. [stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 1. [BlockBlock](https://objective-see.com/products/blockblock.html) - BlockBlock continually monitors common persistence locations and displays an alert whenever a persistent component is added to the OS.
-1. [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
+1. [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - A Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.
 1. [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel.
 1. [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 1. [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS.
@@ -50,13 +50,13 @@
 1. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
 1. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
-1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures.
+1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
 1. [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 
 ## iOS Security
 
-A collection of ios security related resources
+A collection of iOS security-related resources
 
 1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool
 1. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
@@ -67,7 +67,7 @@ A collection of ios security related resources
 1. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 1. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
 1. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
-1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both iOS and Android mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
+1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) is an enterprise tool for mobile app security testing. Lab Automated features dynamic and static analysis on real devices in the cloud and returns results in minutes.
 1. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 
 ## iOS Jailbreaks
@@ -82,11 +82,6 @@ A collection of ios security related resources
 1. [TotallyNotSpyware](https://totally.not.spyware.lol) - Rootful Jailbreak for iOS 10.0 - 10.3.3 64-bit devices.
 1. [kok3shi9all](https://kok3shidoll.web.app/kok3shi9.html) Rootful Jailbreak for 9.3.2 - 9.3.6, as well as 64-bit devices on 9.2 - 9.3.1.
 1. [PhoenixPwn](https://phoenixpwn.com) - Rootful Jailbreak for 9.3.5 32-bit devices.
-
-### Other Awesome Lists
-
-Other amazingly awesome lists can be found in the
-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ---
 
