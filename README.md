@@ -5,6 +5,8 @@
 [![Lint Shell scripts](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-shell-script.yaml)
 [![Lint YAML](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/osx-and-ios-security-awesome/actions/workflows/lint-yaml.yaml)
 
+![GitHub contributors](https://img.shields.io/github/contributors/ashishb/osx-and-ios-security-awesome)
+
 ## Contents
 
 - [macOS and iOS Security Related Tools](#macos-and-ios-security-related-tools--)
