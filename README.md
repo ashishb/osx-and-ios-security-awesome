@@ -22,7 +22,6 @@
 1. [OSX collector](https://github.com/Yelp/OSXCollector) - Forensic analysis.
 1. [OSX auditor](https://github.com/jipegit/OSXAuditor) - Forensic analysis.
 1. [mac_apt](https://github.com/ydkhatri/mac_apt) - macOS Artifact Parsing Tool for forensic analysis.
-1. [MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.
 1. [Santa](https://github.com/google/santa) - Binary whitelisting/blacklisting system.
 1. [Masochist](https://github.com/squiffy/Masochist) - Framework for creating XNU-based rootkits.
 1. [Class-dump](http://stevenygard.com/projects/class-dump/) - Command-line utility to dump Objective-C runtime information.
@@ -52,6 +51,7 @@
 1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
 1. [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
+1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
 
 ## iOS Security
