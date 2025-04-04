@@ -49,7 +49,6 @@
 1. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
 1. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
-1. [Pareto Security](https://paretosecurity.app/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
