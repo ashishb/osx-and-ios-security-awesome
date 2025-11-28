@@ -31,7 +31,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Check YAML files with linter
         uses: ibiqlik/action-yamllint@v3
         with:
