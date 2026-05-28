@@ -47,6 +47,7 @@
 1. [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
 1. [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 1. [FSMonitor](http://fsmonitor.com/) - Monitor all changes in the file system.
+1. [fort](https://github.com/djadmin/fort) - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
 1. [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 1. [swiftGuard](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various countermeasures.
 1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
