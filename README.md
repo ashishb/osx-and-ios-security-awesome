@@ -52,6 +52,7 @@
 1. [Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 1. [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 1. [fort](https://github.com/djadmin/fort) - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
+1. [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
 
