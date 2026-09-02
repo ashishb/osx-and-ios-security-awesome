@@ -65,6 +65,7 @@ A collection of iOS security-related resources
 1. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
 1. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 1. [DVIA v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App v2 for learning
+1. [EvilCorp iOS](https://github.com/jankesec/evilcorp-ios) - An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).
 1. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 1. [objection](https://github.com/sensepost/objection) - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
 1. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
