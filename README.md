@@ -62,6 +62,7 @@
 A collection of iOS security-related resources
 
 1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool
+1. [iosy](https://opensyntaxx.com/) - A CLI decompiler from .ipa files to Swift sources (Xcode projects)
 1. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
 1. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 1. [DVIA v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App v2 for learning
