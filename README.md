@@ -61,17 +61,23 @@
 
 A collection of iOS security-related resources
 
+### Testing apps
+
 1. [IDB](https://github.com/dmayer/idb) - iOS App Security Assessment Tool
 1. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
 1. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 1. [DVIA v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App v2 for learning
 1. [EvilCorp iOS](https://github.com/jankesec/evilcorp-ios) - An intentionally vulnerable iOS application built with SwiftUI for modern iOS security training (30 challenges mapped to OWASP MASVS).
+
+### iOS Security Tools
+
 1. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 1. [objection](https://github.com/sensepost/objection) - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak
 1. [imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 1. [iMessage Fuzzing](https://github.com/googleprojectzero/iOS-messaging-tools) - iMessage fuzzing tools from Google's Project Zero
 1. [Themis](https://github.com/cossacklabs/themis) - a multi-platform programming library for solving typical data security tasks: secure data storage, secure messaging, zero-knowledge proof authentication, etc. Recommended by OWASP MASVS.
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) is an enterprise tool for mobile app security testing. Lab Automated features dynamic and static analysis on real devices in the cloud and returns results in minutes.
+1. [iosy](https://opensyntaxx.com/) - A CLI decompiler from .ipa files to Swift source code (Xcode projects)
 1. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 1. ~~[Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) instead
 
