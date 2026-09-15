@@ -53,6 +53,7 @@
 1. [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 1. [fort](https://github.com/djadmin/fort) - CLI to audit, fix, and prove macOS endpoint security. 15 checks, auto-remediation, SOC 2 evidence report. Single binary, no agent.
 1. [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
+1. [macharden](https://github.com/jankesec/macharden) - Enterprise-grade macOS security audit, posture assessment, and baseline drift engine. 54 CIS/NIST/MITRE controls, OASIS SARIF v2.1.0, and interactive Liquid Glass HTML5 dashboard.
 2. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
