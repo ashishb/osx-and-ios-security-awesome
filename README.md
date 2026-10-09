@@ -57,6 +57,7 @@
 2. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
+1. [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
 
 ## iOS Security
 
