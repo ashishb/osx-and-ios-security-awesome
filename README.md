@@ -83,6 +83,7 @@ A collection of iOS security-related resources
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) is an enterprise tool for mobile app security testing. Lab Automated features dynamic and static analysis on real devices in the cloud and returns results in minutes.
 1. [iosy](https://opensyntaxx.com/) - A CLI decompiler from .ipa files to Swift source code (Xcode projects)
 1. [lazyios](https://github.com/Manuel-1312/lazyios) - Terminal UI that captures an iPhone's traffic over USB and maps each connection to its app, domain and tracker company, plus a basic device check (passcode, Developer Mode, profiles). No jailbreak
+1. [iPhone Data Manager](https://iphonedatamanager.com) - Native macOS tool for read-only iOS backup inspection, backup diffing, SHA-256 verified WhatsApp/SMS transcript extraction, crash report analysis, live system log streaming, and consent-based network capture. No free version.
 1. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 1. ~~[Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) instead
 
