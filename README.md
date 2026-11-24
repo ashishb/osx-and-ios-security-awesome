@@ -57,6 +57,8 @@
 1. [macOS (& iOS) Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation.
 1. [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-assisted inspection of macOS application bundles, Mach-O binaries, and Electron apps, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
 1. [Wardlume](https://wardlume.github.io) - Locks the keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
+1. [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Free Apple Silicon app with a Privacy Inspector (TCC permissions viewer and reset, active network connections, browser extension permission risks) and a code-signature check for launch agents and login items. Source-available (GPLv3 + Commons Clause).
+1. [SecretBar](https://github.com/secretbar/secretbar) - Command line tool and menu bar app that stores secrets in the Secure Enclave, reads them with Touch ID and injects them into one process environment.
 1. [Wardlatch](https://github.com/deimos-hq/wardlatch) - Read-only CLI that checks a Mac (or Linux machine) for runtimes that still trust revoked or leaked CA keys, known-vulnerable versions, swapped binaries and poisoned packages. Runs locally, sends no telemetry, changes nothing. Apache-2.0.
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
@@ -85,6 +87,7 @@ A collection of iOS security-related resources
 1. [iosy](https://opensyntaxx.com/) - A CLI decompiler from .ipa files to Swift source code (Xcode projects)
 1. [lazyios](https://github.com/Manuel-1312/lazyios) - Terminal UI that captures an iPhone's traffic over USB and maps each connection to its app, domain and tracker company, plus a basic device check (passcode, Developer Mode, profiles). No jailbreak
 1. [iPhone Data Manager](https://iphonedatamanager.com) - Native macOS tool for read-only iOS backup inspection, backup diffing, SHA-256 verified WhatsApp/SMS transcript extraction, crash report analysis, live system log streaming, and consent-based network capture. No free version.
+1. [rasp](https://github.com/Ostorlab/rasp) - Open-source RASP runtime that protects a built IPA without source changes: jailbreak, debugger, Frida and hook, simulator and app-virtualizer checks
 1. ~~[AppCritique](https://appcritique.boozallen.com) - iOS App Security Assessment Tool~~
 1. ~~[Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool.~~ Abandoned in 2025. The devs recommend using [objection](https://github.com/sensepost/objection) instead
 
