@@ -59,6 +59,7 @@
 1. [Wardlume](https://wardlume.github.io) - Locks the keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
 1. [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Free Apple Silicon app with a Privacy Inspector (TCC permissions viewer and reset, active network connections, browser extension permission risks) and a code-signature check for launch agents and login items. Source-available (GPLv3 + Commons Clause).
 1. [SecretBar](https://github.com/secretbar/secretbar) - Command line tool and menu bar app that stores secrets in the Secure Enclave, reads them with Touch ID and injects them into one process environment.
+1. [Wardlatch](https://github.com/deimos-hq/wardlatch) - Read-only CLI that checks a Mac (or Linux machine) for runtimes that still trust revoked or leaked CA keys, known-vulnerable versions, swapped binaries and poisoned packages. Runs locally, sends no telemetry, changes nothing. Apache-2.0.
 1. ~~[MIDAS](https://github.com/etsy/MIDAS) - macOS Intrusion Detection Analysis System.~~ Abandoned.
 1. ~~[Mana Security](https://github.com/manasecurity/mana-security-app) - Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.~~ Looks abandoned.
 
